@@ -1,0 +1,9 @@
+NAME="fdkaac"
+VERSION=0.6.3
+RELEASE=1
+CATEGORY="Audio"
+SUMMARY="Command-line AAC encoder"
+DESCRIPTION="fdkaac reads linear PCM audio in either WAV, raw PCM, or CAF
+format, and encodes it into either M4A / AAC file."
+HOMEPAGE="https://github.com/nu774/fdkaac"
+SRC_URI="${HOMEPAGE}/archive/v${VERSION}/fdkaac-v${VERSION}.tar.gz"
